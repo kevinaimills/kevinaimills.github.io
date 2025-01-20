@@ -15,3 +15,4 @@ I work in the ethics of technology, including the ethics of artificial intellige
 - **Misinformation:** censorship of social media, historical roots of contemporary misinformation
 - **Manipulation:** dark patterns
 
+{% include_relative _includes/publications.md %}
