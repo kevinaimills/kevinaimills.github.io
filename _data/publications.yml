@@ -5,7 +5,6 @@ main:
     conference: "AI & Ethics (2024)"
     pdf: "./papers/Mills (2024) - Technology Liberty and Guardrails Proof.pdf"
     page: https://link.springer.com/article/10.1007/s43681-024-00625-0
-    notes: Accepted Manuscript
 
   - title: "Consent and the Right to Privacy"
     authors: Kevin Mills
