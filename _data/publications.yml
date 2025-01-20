@@ -1,20 +1,14 @@
 main:
 
-  - title: "Technology, Liberty, and Guardrails (2024)"
+  - title: "Technology, Liberty, and Guardrails"
     authors: Kevin Mills
-    conference_short: "AI"
-    conference: "AI & Ethics"
+    conference: "AI & Ethics (2024)"
     pdf: "./papers/Mills (2024) - Technology Liberty and Guardrails Proof.pdf"
     page: https://link.springer.com/article/10.1007/s43681-024-00625-0
     notes: Accepted Manuscript
 
-  - title: "Consent and the Right to Privacy (2022)"
+  - title: "Consent and the Right to Privacy"
     authors: Kevin Mills
-    conference_short: JAPP
-    conference: "Journal of Applied Philosophy"
-    pdf: https://onlinelibrary.wiley.com/doi/10.1111/japp.12592
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: "Journal of Applied Philosophy (2022)"
+    pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/japp.12592
+    page: https://onlinelibrary.wiley.com/doi/10.1111/japp.12592
