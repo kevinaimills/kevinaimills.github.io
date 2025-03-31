@@ -1,5 +1,11 @@
 main:
 
+  - title: "Why We Should Want Fewer AI Guardrails (Conference Presentation)"
+    authors: Kevin Mills
+    conference: "Paris Conference on AI and Data Ethics"
+    pdf: "./papers/Mills (2024) - Technology Liberty and Guardrails.pdf"
+    page: https://youtu.be/Jh3anF3GYXU
+
   - title: "Technology, Liberty, and Guardrails"
     authors: Kevin Mills
     conference: "AI & Ethics (2024)"
