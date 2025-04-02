@@ -18,6 +18,6 @@ The 'ai' in my username stands for 'Alastair Ian', which are my middle names.
 I recently gave a talk on why we should be wary of AI guardrails, as they often limit user freedom in undesirable ways. See it here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh3anF3GYXU?si=PATY7jSkf-pw5yII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<br>
 {% include_relative _includes/publications.md %}
 
