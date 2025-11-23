@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Associate at MIT, appointed in the Department of Linguistics and Philosophy and the Schwarzman College of Computing. I work in the ethics of technology, including the ethics of artificial intelligence.
+I am a researcher who works on the ethics of technology, including the ethics of artificial intelligence. I was most recently a Postdoctoral Associate at MIT, appointed in the Department of Linguistics and Philosophy and the Schwarzman College of Computing. I am currently studying the mathematics underlying machine learning in preparation for a pivot to a technical career.
 
 The 'ai' in my username stands for 'Alastair Ian', which are my middle names.
 

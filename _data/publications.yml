@@ -2,7 +2,9 @@ main:
 
   - title: "Censorship of Misinformation and Freedom of Speech on Social Media"
     authors: Kevin Mills
-    conference: "Under review; email me for a draft"
+    conference: "MIT Case Studies in Social and Ethical Responsibilities of Computing (2025)"
+    pdf: "./papers/Mills (2025) - Censorship of Misinformation and Freedom of Speech on Social Media.pdf"
+    page: https://mit-serc.pubpub.org/pub/lkf63cu5
 
   - title: "Technology, Liberty, and Guardrails"
     authors: Kevin Mills
